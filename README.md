@@ -1,2 +1,2 @@
 # ML_repo
-Projects on machine learning
+Projects on supervised machine learning
